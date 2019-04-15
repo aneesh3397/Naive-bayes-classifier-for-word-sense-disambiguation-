@@ -240,7 +240,7 @@ for item in clean_test:
   else:
     print() 
   
-print(str((correct/count)*100)+'%', '\n',correct,count)
+print(str((correct/count)*100)+'%')
 
 
 
